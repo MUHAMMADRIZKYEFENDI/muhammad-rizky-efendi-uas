@@ -1,4 +1,5 @@
 
+# MUHAMMAD RIZKY EFENDI
 # 1. Menampilkan Nama Karyawan yang Berada di Departemen yang Dipimpin oleh Manajer dengan Nama 'Rika'
 ----
 
@@ -46,6 +47,8 @@ ORDER BY COUNT(pd.nik) DESC
 LIMIT 1;
 
 ---
+![Screenshot (198)](https://github.com/MUHAMMADRIZKYEFENDI/muhammad-rizky-efendi-uas/assets/168548623/f213bd01-9de8-4889-9d75-13f720e55441)
+
 # 5. Menampilkan Nama Proyek yang Diikuti oleh Karyawan dengan Gaji Pokok Kurang dari 3 Juta
 ---
 SELECT DISTINCT p.nama
@@ -55,3 +58,5 @@ JOIN karyawan k ON pd.nik = k.nik
 WHERE k.gaji_pokok < 3000000;
 
 ---
+![Screenshot (199)](https://github.com/MUHAMMADRIZKYEFENDI/muhammad-rizky-efendi-uas/assets/168548623/a49b61d7-b08d-4b20-81e5-ef99e0066489)
+
