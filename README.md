@@ -34,6 +34,7 @@ GROUP BY k.nama
 HAVING COUNT(pd.id_proj) > 1;
 
 ---
+![Screenshot (197)](https://github.com/MUHAMMADRIZKYEFENDI/muhammad-rizky-efendi-uas/assets/168548623/35e23c5a-d8f7-48be-acff-7934034f539e)
 
 # 4. Menampilkan Nama Proyek yang Melibatkan Karyawan Terbanyak
 ---
