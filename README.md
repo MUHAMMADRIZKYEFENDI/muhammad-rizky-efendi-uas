@@ -23,6 +23,7 @@ JOIN departemen d ON k.id_dept = d.id_dept
 WHERE d.nama = 'RnD';
 
 ---
+![Screenshot (196)](https://github.com/MUHAMMADRIZKYEFENDI/muhammad-rizky-efendi-uas/assets/168548623/8b17cd8f-ba3e-447d-b790-2600b339d251)
 
 # 3. Menampilkan Nama Karyawan yang Terlibat dalam Lebih dari Satu Proyek
 ---
