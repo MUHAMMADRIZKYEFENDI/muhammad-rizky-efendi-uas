@@ -10,7 +10,7 @@ WHERE m.nama = 'Rika';
 
 
 ---
-
+![Screenshot (195)](https://github.com/MUHAMMADRIZKYEFENDI/muhammad-rizky-efendi-uas/assets/168548623/07cd95fc-2c55-47a1-834d-16e377a2f3a6)
 
 # 2. Menampilkan Nama Proyek yang Dikerjakan oleh Karyawan dari Departemen 'RnD'
 
